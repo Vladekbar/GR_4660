@@ -277,9 +277,9 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 6. В нашей ситуации выбираем средний вариант. 
 Поочередно вводим команды:
 
-git remote add origin https://github.com/Vladekbar/Repetition.git
-git branch -M main
-git push -u origin main
+* git remote add origin https://github.com/Vladekbar/Repetition.git
+* git branch -M main
+* git push -u origin main
 
 Прошу обратить внимание, что при первом связывании необходимо будет "познакомить" GitHub с вашим репозиторием. 
 Терминал подскажет, как. Процедура похожа на "первое представление" в VS Code.
