@@ -369,8 +369,8 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 # Начало работы с C#. Алгоритм создания и занесения готовой работы на GitHub.
 
-1. Создайте папку. Examples.
-2. Запускаем с нее терминал (Ctrl +`), инитим **git init*).
+1. Создайте папку Examples.
+2. Запускаем с нее терминал (Ctrl +`), инитим **git init**
 3. В рамках папки Examples создаем новую папку Example001_HelloConsole
 4. Запускаем втроенный терминал с папки Example001_HelloConsole
 5. Сбоку, на панели терминалов, отобразится новый терминал, ниже того, который был для корневой папки.
